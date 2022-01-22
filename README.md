@@ -1,3 +1,7 @@
-Ola Sou// @Samuel
-Interesses: programming,Game_Development
-//Aprendendo: Lua,Ruby
+Olá, meu nome é Samuel
+
+Interesses:
+programming,Game-Development,Rpg
+
+Aprendendo:
+Lua,Ruby
